@@ -1,4 +1,5 @@
 # Git In My Own Words
+### By Melody Shier
 ---
 
 ## What is Git?
